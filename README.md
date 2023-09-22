@@ -6,4 +6,4 @@
 
 Connect with me:
 
-![image](https://linkedin.com/in/katherine-cordero-86241173)
+![image](www.linkedin.com/in/katherine-cordero-86241173)
