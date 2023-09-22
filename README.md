@@ -6,7 +6,5 @@
 
 Connect with me:
 
-[![Icono de LinkedIn](https://www.linkedin.com/in/katherine-cordero-86241173/)](https://www.linkedin.com/in/katherine-cordero-86241173/)
-
 [Perfil de LinkedIn](https://www.linkedin.com/in/katherine-cordero-86241173/)
 
