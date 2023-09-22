@@ -6,5 +6,7 @@
 
 Connect with me:
 
-![image](https://github.com/katycor/katycor/assets/131924719/78f16f70-dd52-48d1-8a9d-bf7e27621f67)
-![image](https://linkedin.com/in/katherine-cordero-86241173)
+[![Icono de LinkedIn](https://www.linkedin.com/in/katherine-cordero-86241173/)](https://www.linkedin.com/in/katherine-cordero-86241173/)
+
+[Perfil de LinkedIn](https://www.linkedin.com/in/katherine-cordero-86241173/)
+
