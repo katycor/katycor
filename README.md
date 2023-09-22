@@ -1,6 +1,6 @@
 Hi 👋, I'm Katherine Cordero!
 
-- 🌱 I’m currently learning Java, Spring, Angular, SQL
+- 🌱 I’m currently learning Java, SQL
 - 👨‍💻 All of my projects are available at https://github.com/katycor
 - 📫 How to reach me: katherinecordero03@hotmail.com
 
