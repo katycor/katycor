@@ -5,4 +5,4 @@ Hi 👋, I'm Katherine Cordero!
 - 📫 How to reach me: katherinecordero03@hotmail.com
 
 Connect with me:
-www.linkedin.com/in/katherine-cordero-86241173
+![image]www.linkedin.com/in/katherine-cordero-86241173
