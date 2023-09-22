@@ -1,4 +1,4 @@
-Hi 👋, I'm Katherine Cordero!
+**Hi 👋, I'm Katherine Cordero!**
 
 - 🌱 I’m currently learning Java, SQL
 - 👨‍💻 All of my projects are available at https://github.com/katycor
@@ -6,4 +6,4 @@ Hi 👋, I'm Katherine Cordero!
 
 Connect with me:
 
-https://linkedin.com/in/katherine-cordero-86241173
+![image](https://linkedin.com/in/katherine-cordero-86241173)
