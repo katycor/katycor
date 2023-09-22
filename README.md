@@ -5,6 +5,6 @@
 - 📫 How to reach me: katherinecordero03@hotmail.com
 
 Connect with me:
-
+[<img src="https://www.example.com/linkedin-icon.png" width="30">](https://www.linkedin.com/in/katherine-cordero-86241173/)
 [Perfil de LinkedIn](https://www.linkedin.com/in/katherine-cordero-86241173/)
 
