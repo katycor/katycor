@@ -7,4 +7,4 @@ Hi 👋, I'm Katherine Cordero!
 Connect with me:
 
 ![image](https://github.com/katycor/katycor/assets/131924719/a67a16bb-26d8-4b98-ac37-c37809fb40e2)
-www.linkedin.com/in/katherine-cordero-86241173
+https://linkedin.com/in/katherine-cordero-86241173
